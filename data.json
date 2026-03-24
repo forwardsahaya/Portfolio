@@ -1,0 +1,19 @@
+
+  {
+  "skills": [
+    { "name": "HTML", "level": "Advanced" },
+    { "name": "CSS", "level": "Advanced" },
+    { "name": "JavaScript", "level": "Advanced" },
+    { "name": "Bootstrap", "level": "Intermediate" }
+  ],
+  "work": [
+    { "title": "Portfolio Website", "description": "A modern responsive portfolio.", "image": "assets/images/work1.jpg" },
+    { "title": "E-commerce App", "description": "Online shop with cart system.", "image": "assets/images/work2.jpg" }
+  ],
+  "experiences": [
+    { "role": "Frontend Developer", "company": "Tech Corp", "years": "2021-2023", "description": "Worked on UI/UX design and React apps." },
+    { "role": "Software Engineer", "company": "Startup Inc", "years": "2019-2021", "description": "Built scalable web apps with JavaScript." }
+  ]
+}
+
+
